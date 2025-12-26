@@ -49,7 +49,6 @@ public class App {
             }
         });
 
-        // Menampilkan frame
         frame.setVisible(true);
     }
 }
